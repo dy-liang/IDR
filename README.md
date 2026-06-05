@@ -1,1 +1,1 @@
-# Code for paper "Intrinsic Dynamics-Constrained Generalizable Representations for Deep Reinforcement Learning".
+# Code for paper "Learning Intrinsic Dynamic-Constraints Representations for Visual Reinforcement Learning".
